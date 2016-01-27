@@ -335,7 +335,7 @@ How does this compare with **existing CTA products** such as [this one from Soci
 <br>
 <br>
 <br>
-1. blabla bla
+1. It is a trading strategy that based on the analysis of the moving average indicates whether to go long or short the market. Investment capital is 1 dollar. The singal indicates on which days you should buy or sell.
 <br>
 2.
 ```{r echo=TRUE, eval=TRUE, comment=NA, warning=FALSE,error=FALSE, message=FALSE, prompt=FALSE, tidy=TRUE}
